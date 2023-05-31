@@ -1,0 +1,57 @@
+html {
+    font-size: 20px;
+}
+
+img {
+   width: 95%;
+   margin: 2%;
+   border-radius: 2%;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-family: Great Vibes;
+    font-style: italic;
+    font-size: 4em;
+    margin: 20px;
+}
+
+h2 {
+    margin: 1em;
+    font-size: 25px;
+    background-image: linear-gradient(to right, #eee, #eee, white, white, white);
+    font-weight: bold;
+    padding: 5px;
+}
+
+nav {
+    background-color: black;
+    padding: 1em;
+    text-align: center;
+    color: rgb(247, 251, 255);
+    
+}
+
+nav>a {
+    font-size: 25px;
+}
+
+p {
+    margin: 1em;
+    text-align: justify;
+}
+
+nav>a{
+    margin: 4%;
+}
+
+footer {
+    background-color: black;
+    padding: 1em;
+    text-align: center;
+    color: rgb(247, 251, 255);
+    font-size: 80%;
+}
